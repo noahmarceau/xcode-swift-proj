@@ -1,0 +1,6 @@
+Validation performed in Linux; no Xcode/iOS SDK available.
+
+PASS: plists, scheme XML, starter CSV, shell syntax
+PASS: Xcode project parsed; file references exist
+PASS: 18 Swift files parsed (syntax only, not type checking)
+Xcode build, XCTest, Simulator and device checks still required.
